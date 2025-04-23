@@ -2096,6 +2096,12 @@ var APP_DATA = {
           "pitch": 0.5314076905600338,
           "rotation": 0,
           "target": "42-og-wohnzimmer"
+        },
+        {
+          "yaw": 1.1759840696066632,
+          "pitch": -0.5732253349059864,
+          "rotation": 0,
+          "target": "36-dachboden-mitte"
         }
       ],
       "infoHotspots": []
