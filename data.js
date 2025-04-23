@@ -1952,6 +1952,12 @@ var APP_DATA = {
           "pitch": 0.3187040561472756,
           "rotation": 0,
           "target": "32-keller-links"
+        },
+        {
+          "yaw": -1.5317391594084349,
+          "pitch": 0.3262174855682023,
+          "rotation": 0,
+          "target": "33-keller-rechts"
         }
       ],
       "infoHotspots": []
@@ -2227,7 +2233,7 @@ var APP_DATA = {
           "yaw": 2.9616898715506927,
           "pitch": 0.2730304615923167,
           "rotation": 0,
-          "target": "40-og-durchgang-schlafzimmer-eltern"
+          "target": "41-og-durchgangszimmer"
         }
       ],
       "infoHotspots": []
@@ -2362,16 +2368,16 @@ var APP_DATA = {
           "target": "45-og-flur-vorne"
         },
         {
-          "yaw": 3.102442632430953,
-          "pitch": 0.10893252008380827,
-          "rotation": 0,
-          "target": "39-og-schlafzimmer-hinten"
-        },
-        {
           "yaw": -0.4122835731729797,
           "pitch": 0.23940907677147472,
           "rotation": 0,
           "target": "42-og-wohnzimmer"
+        },
+        {
+          "yaw": 0.9452228241598011,
+          "pitch": 0.00712595412352357,
+          "rotation": 0,
+          "target": "37-zum-dachboden-treppe"
         }
       ],
       "infoHotspots": []
@@ -2468,6 +2474,12 @@ var APP_DATA = {
           "pitch": 0.11916416103478866,
           "rotation": 0,
           "target": "43-og-flur-hinten"
+        },
+        {
+          "yaw": -1.5777864352056294,
+          "pitch": 0.691755971910494,
+          "rotation": 0,
+          "target": "46-eg-treppe"
         }
       ],
       "infoHotspots": []
@@ -2512,10 +2524,10 @@ var APP_DATA = {
           "target": "47-eg-groes-wohnzimmer"
         },
         {
-          "yaw": -2.0962306267878628,
-          "pitch": 0.47835775508619527,
+          "yaw": -2.342565798244447,
+          "pitch": 0.7626553599562236,
           "rotation": 0,
-          "target": "1-strae-treppe"
+          "target": "53-eg-flur-vorne"
         },
         {
           "yaw": -1.676160548865914,
@@ -2854,8 +2866,8 @@ var APP_DATA = {
           "target": "58-eg-kleines-wohnzimmer-vorne"
         },
         {
-          "yaw": -1.5436534170999572,
-          "pitch": 0.1976479623311036,
+          "yaw": -1.5022904114707938,
+          "pitch": 0.16592864086225134,
           "rotation": 0,
           "target": "1-strae-treppe"
         },
@@ -2864,6 +2876,12 @@ var APP_DATA = {
           "pitch": 0.25110458266050095,
           "rotation": 0,
           "target": "47-eg-groes-wohnzimmer"
+        },
+        {
+          "yaw": 1.5276910133185542,
+          "pitch": 0.42343301290030233,
+          "rotation": 0,
+          "target": "54-eg-flur-mitte"
         }
       ],
       "infoHotspots": []
@@ -2978,6 +2996,12 @@ var APP_DATA = {
           "pitch": 0.10584106926541459,
           "rotation": 0,
           "target": "31-terrasse"
+        },
+        {
+          "yaw": -1.2947167582413535,
+          "pitch": 0.13276166152327384,
+          "rotation": 0,
+          "target": "34-keller-treppe"
         }
       ],
       "infoHotspots": []
